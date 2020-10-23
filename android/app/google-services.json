@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508359955745",
+    "firebase_url": "https://vegetus-7f8bd.firebaseio.com",
+    "project_id": "vegetus-7f8bd",
+    "storage_bucket": "vegetus-7f8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508359955745:android:06bc908e924d7c021fda60",
+        "android_client_info": {
+          "package_name": "com.example.vegetus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508359955745-220v8sfdgd0p5177q5hohkq8funjvsgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWtDf75RwzLCCAxHTNfvKopRRHXOyQcxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508359955745-220v8sfdgd0p5177q5hohkq8funjvsgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
